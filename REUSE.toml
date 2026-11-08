@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2026 aas-client3.2-python AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
+version = 1
+
+# The list of authors and the README, which are plain prose shown rendered.
+[[annotations]]
+path = ["AUTHORS", "README.md"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 aas-client3.2-python AUTHORS"
+SPDX-License-Identifier = "MIT"
